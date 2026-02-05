@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Storeplate",
-    "base_url": "https://storeplate.vercel.app/",
+    "title": "Linda Plants Store",
+    "base_url": "https://linda-plants-store.com/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -9,12 +9,12 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "33",
-    "logo_text": "Storeplate"
+    "logo_text": "Linda Plants Store"
   },
 
   "announcement": {
     "enable": true,
-    "content": "<span class='text-center block'>♥️ Loving Storeplate? <a class='underline' href='https://github.com/zeon-studio/storeplate' target='_blank' rel='noopener'>Please ⭐️ on Github</a></span>",
+    "content": "<span class='text-center block'>🌿 Spring Sale! Get 20% off all indoor plants with code SPRING20</span>",
     "expire_days": 7
   },
 
@@ -28,13 +28,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "© 2026 Linda Plants Store. All rights reserved."
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://github.com/zeon-studio/storeplate"
+    "label": "Shop Plants",
+    "link": "/products"
   },
 
   "google_tag_manager": {
@@ -43,17 +43,17 @@
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
+    "meta_author": "Linda Plants Store",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Shopify Storefront Boilerplate"
+    "meta_description": "Discover beautiful indoor and outdoor plants at Linda Plants Store. Premium quality plants, expert care guides, and fast delivery."
   },
 
   "shopify": {
-    "currencySymbol": "৳",
-    "currencyCode": "BDT",
+    "currencySymbol": "$",
+    "currencyCode": "USD",
     "collections": {
-      "hero_slider": "hidden-homepage-carousel",
-      "featured_products": "featured-products"
+      "hero_slider": "homepage-hero-plants",
+      "featured_products": "bestselling-plants"
     }
   }
 }

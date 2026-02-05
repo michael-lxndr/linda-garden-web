@@ -1,12 +1,11 @@
 ---
 enable: true
-title: "Curved Collection for Your
-Bedroom Get 25% Off"
-sub_title: "Deal of the Week"
+title: "New Arrivals: Rare Orchid Collection - 15% Off This Week"
+sub_title: "Limited Time Offer"
 image: "/images/call-to-action.png"
-description: "Subscribe our Newsletter and get all latest information and offers"
+description: "Subscribe to our newsletter for exclusive deals and plant care tips delivered monthly"
 button:
   enable: true
-  label: "Shop Now"
+  label: "Browse Plants"
   link: "/products"
 ---
