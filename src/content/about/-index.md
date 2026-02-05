@@ -1,85 +1,85 @@
 ---
-title: "About Us"
-meta_title: "About"
-description: ""
+title: "About Linda Plants Store"
+meta_title: "About Us - Linda Plants Store"
+description: "Learn about our mission to bring nature into your home"
 image: ""
 draft: false
 
 #About Us
 about_us:
-  - title: "Our Company"
+  - title: "Growing Together Since 2020"
     image: "/images/aboutUs.png"
-    content: "Welcome to **Storeplate** where brilliance meets innovation. We take pride in being your ultimate destination for exquisite lighting solutions that illuminate spaces and lives alike. With a passion for creating luminous experiences, we curate a diverse range of cutting-edge light fixtures designed to elevate any environment. Our commitment to quality craftsmanship and a keen eye for aesthetic appeal ensures that each product we offer is not just a source of light,<br/><br/> but a work of art in its own right. Whether you're seeking ambient elegance for your home or functional brilliance for a commercial space, [Your Company Name] is dedicated to bringing your vision to light. Explore our collection and let your surroundings shine with a touch of our radiant expertise. Elevate your space, embrace the light, only with **Storeplate**."
+    content: "Linda Plants Store sprouted from a passion for helping people cultivate their own green sanctuaries. What started in a backyard greenhouse has blossomed into a trusted source for premium houseplants and outdoor varieties. We hand-select each specimen, ensuring robust root systems and vibrant foliage that will thrive in your care.<br/><br/>Every plant tells a story of growth, resilience, and natural beauty. Our curated selection includes rare tropical specimens, hardy succulents, air-purifying varieties, and easy-care options perfect for beginners. We believe everyone deserves to experience the joy of nurturing living greenery."
 
-  - title: "Who We Are ?"
+  - title: "Our Green Philosophy"  
     image: "/images/aboutUs.png"
-    content: "At **Storeplate** we illuminate your world with a curated collection of exceptional lighting solutions. Established with a passion for transforming spaces and creating ambiance, we stand as a beacon of quality and style in the realm of lighting. With a keen eye for design and a commitment to sourcing the finest materials, we pride ourselves on offering a diverse range of work that not only brighten spaces but also elevate aesthetics. <br/><br/> Committed to delivering excellence, we prioritize customer satisfaction and provide expert guidance to help you find the perfect lighting solution for any setting. Welcome to **Storeplate** where light meets inspiration. Illuminate your world today!"
+    content: "Quality and sustainability drive everything we do. We partner with certified organic nurseries, use compostable packaging, and donate a portion of profits to forest restoration projects. Our horticulture experts quarantine all incoming inventory, checking for pests and ensuring optimal health before shipping.<br/><br/>Beyond selling plants, we foster a community of enthusiasts through educational resources, care workshops, and personalized consultation. Whether you need drought-tolerant species for a sunny windowsill or shade-loving ferns for a bathroom, our team provides guidance tailored to your unique environment."
 
 # Frequently Asked Questions
-faq_section_title: "Frequently Asked Questions"
-faq_section_subtitle: "Our expertly crafted FAQ guide provides valuable insights on selecting the perfect table lamp to complement your decor and meet your specific lighting needs."
+faq_section_title: "Common Plant Questions"
+faq_section_subtitle: "Answers to help you select the right plants and keep them thriving in your space"
 button:
   enable: true
-  label: "Contact Us"
+  label: "Get In Touch"
   link: "/contact"
 faqs:
-  - title: "Can I customize lamps for client projects?"
-    content: "Yes, our platform allows customization for client projects, ensuring unique and tailored solutions. Yes, our platform allows customization for client projects, ensuring unique and tailored solutions."
+  - title: "Which plants work best in apartments with limited natural light?"
+    content: "Pothos, snake plants, and ZZ plants excel in low-light environments. These hardy species adapt to fluorescent lighting and infrequent watering, making them ideal for offices or interior rooms without windows."
 
-  - title: "Where are your lamps crafted?"
-    content: "Our lamps are meticulously crafted, combining quality materials and skilled workmanship to deliver exceptional products. Our lamps are meticulously crafted, combining quality materials and skilled workmanship to deliver exceptional products."
+  - title: "How are plants protected during delivery?"
+    content: "We use custom-designed boxes with moisture-retaining materials and cushioned supports. Each plant ships within 24 hours of harvest, and our packaging maintains humidity while allowing airflow during the 3-5 day transit period."
 
-  - title: "What's included in the 'free updates' policy?"
-    content: "Free updates encompass enhancements to lamp designs and features, ensuring your collection stays current and appealing. Free updates encompass enhancements to lamp designs and features, ensuring your collection stays current and appealing"
+  - title: "What information comes with my plant order?"
+    content: "Every purchase includes a species-specific care guide covering watering frequency, sunlight needs, ideal temperature ranges, and fertilization schedules. Digital versions with photos and troubleshooting tips are emailed immediately after your order ships."
 
-  - title: "Can I use your lamps for open source projects?"
-    content: "Certainly! Our lamps are open for integration into various projects, fostering creativity and innovation. Certainly! Our lamps are open for integration into various projects, fostering creativity and innovation."
+  - title: "What if my plant arrives damaged or doesn't survive?"
+    content: "We guarantee healthy arrival and offer 30-day replacement coverage. Simply photograph the issue and email our team - we'll send a replacement or issue a full refund, no questions asked."
 
-  - title: "Can I retail themes featuring your lamps?"
-    content: "Absolutely! You can sell themes created with our lamps, providing stylish solutions for diverse design needs. Absolutely! You can sell themes created with our lamps, providing stylish solutions for diverse design needs."
+  - title: "Are your plants safe around cats and dogs?"
+    content: "We clearly label pet-safe options on all product pages. Popular non-toxic choices include spider plants, Boston ferns, and prayer plants. Our filtered search lets you browse exclusively pet-friendly varieties."
 
 # Testimonials
 testimonials_section_enable: true
-testimonials_section_title: "What Our Client Says"
+testimonials_section_title: "What Plant Lovers Say"
 testimonials:
-  - name: "Ava Sinclair"
-    designation: "Lead Frontend Architect"
+  - name: "Sarah Chen"
+    designation: "Urban Gardener"
     avatar: "/images/avatar-sm.png"
-    content: "Storeplate has been a game-changer for our e-commerce setup. This Astro-Shopify boilerplate blends the speed and flexibility of Astro with the powerful e-commerce capabilities of Shopify, giving us the perfect foundation for a high-performance, modern storefront. Setup was smooth, and it’s optimized for seamless integration with Shopify’s API, so we were able to get our site up and running quickly without compromising on customizations or functionality. Storeplate’s clean codebase and scalability make it an ideal solution for any team looking to leverage Astro’s benefits in an e-commerce context. Highly recommended for anyone looking to streamline their Shopify store with the speed of Astro!"
+    content: "After killing three fiddle leaf figs from other retailers, I was skeptical. Linda Plants Store changed everything - their specimen arrived perfectly packaged with roots intact, and the detailed care instructions actually worked. Six months later, it's doubled in size and producing new leaves weekly."
 
-  - name: "Jordan Patel"
-    designation: "E-commerce Solutions Strategist"
+  - name: "Marcus Thompson"
+    designation: "Interior Designer"  
     avatar: "/images/avatar-sm.png"
-    content: "Storeplate has been a game-changer for our e-commerce setup. This Astro-Shopify boilerplate blends the speed and flexibility of Astro with the powerful e-commerce capabilities of Shopify, giving us the perfect foundation for a high-performance, modern storefront. Setup was smooth, and it’s optimized for seamless integration with Shopify’s API, so we were able to get our site up and running quickly without compromising on customizations or functionality. Storeplate’s clean codebase and scalability make it an ideal solution for any team looking to leverage Astro’s benefits in an e-commerce context. Highly recommended for anyone looking to streamline their Shopify store with the speed of Astro!"
+    content: "I source plants for commercial installations, and Linda Plants Store consistently delivers exhibition-quality specimens. Their rare tropical selection helps me create unique biophilic designs that clients love. The team even consulted on lighting requirements for a challenging lobby project."
 
-  - name: "Lena Brooks"
-    designation: "Digital Experience Specialist"
+  - name: "Elena Rodriguez"
+    designation: "Plant Enthusiast"
     avatar: "/images/avatar-sm.png"
-    content: "Storeplate has been a game-changer for our e-commerce setup. This Astro-Shopify boilerplate blends the speed and flexibility of Astro with the powerful e-commerce capabilities of Shopify, giving us the perfect foundation for a high-performance, modern storefront. Setup was smooth, and it’s optimized for seamless integration with Shopify’s API, so we were able to get our site up and running quickly without compromising on customizations or functionality. Storeplate’s clean codebase and scalability make it an ideal solution for any team looking to leverage Astro’s benefits in an e-commerce context. Highly recommended for anyone looking to streamline their Shopify store with the speed of Astro!"
+    content: "The customer service here is outstanding. When I wasn't sure which succulents would survive my desert climate, their horticulturist spent 20 minutes on the phone discussing options. Every plant arrived healthy, and they've all flourished despite our intense summer heat."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "David Park"
+    designation: "First-Time Plant Owner"
     avatar: "/images/avatar-sm.png"
-    content: "Storeplate has been a game-changer for our e-commerce setup. This Astro-Shopify boilerplate blends the speed and flexibility of Astro with the powerful e-commerce capabilities of Shopify, giving us the perfect foundation for a high-performance, modern storefront. Setup was smooth, and it’s optimized for seamless integration with Shopify’s API, so we were able to get our site up and running quickly without compromising on customizations or functionality. Storeplate’s clean codebase and scalability make it an ideal solution for any team looking to leverage Astro’s benefits in an e-commerce context. Highly recommended for anyone looking to streamline their Shopify store with the speed of Astro!"
+    content: "As someone who thought I had a black thumb, the beginner-friendly collection was perfect. The pothos I ordered came with QR codes linking to video tutorials. Nine months in, I've successfully propagated cuttings and started my own mini jungle. This store made plant care accessible and fun."
 
 # Our Staff
 staff_section_enable: true
 staff:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Linda Martinez"
+    designation: "Founder & Head Horticulturist"
     avatar: "/images/staff/staff.png"
 
-  - name: "Noah Anderson"
-    designation: "Java Engineer"
+  - name: "James Wu"
+    designation: "Plant Care Specialist"
     avatar: "/images/staff/staff.png"
 
-  - name: "Olivia Harper"
-    designation: "UI Designer"
+  - name: "Sofia Alvarez"
+    designation: "Customer Experience Lead"
     avatar: "/images/staff/staff.png"
 
-  - name: "Benjamin Clarke"
-    designation: "Product Marketer"
+  - name: "Ryan Foster"
+    designation: "Sustainability Coordinator"
     avatar: "/images/staff/staff.png"
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+At Linda Plants Store, we transform houses into homes through the power of living greenery. Our carefully curated selection brings nature indoors, creating spaces that breathe life, beauty, and tranquility. Join thousands of satisfied customers who've discovered that plant parenthood is easier and more rewarding than they ever imagined.

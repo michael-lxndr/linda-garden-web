@@ -1,21 +1,21 @@
 ---
-title: "Connect with Us"
-meta_title: ""
-description: "this is meta description"
+title: "Contact Linda Plants Store"
+meta_title: "Contact Us"
+description: "Get in touch with our plant experts"
 image: ""
 draft: false
 
 #Contact Options
 contact_meta:
-  - name: "Address"
-    contact: "123 Main Street, Anytown, </br> CA 12335 - USA"
+  - name: "Location"
+    contact: "456 Greenhouse Lane, Portland, </br> OR 97204 - USA"
 
-  - name: "Email"
-    contact: "yourmail@domain.com </br> support@domain.com"
+  - name: "Email Support"
+    contact: "hello@lindaplants.com </br> care@lindaplants.com"
 
   - name: "Phone"
-    contact: "Mobile: (08) 123 456 789 </br> Hotline: 1009 678 456"
+    contact: "Main: (503) 555-7890 </br> Orders: (503) 555-7891"
 
-  - name: "Shop Time"
-    contact: "Available at 10am-8pm </br>"
+  - name: "Business Hours"
+    contact: "Mon-Sat: 9am-7pm PST </br> Sunday: 10am-5pm PST"
 ---

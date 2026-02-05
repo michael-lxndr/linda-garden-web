@@ -33,22 +33,23 @@ const { products: featuredProducts } = await getCollectionProducts({
     </div>
   </section>
 
-  {/* category section */}
+  {/* Plant Collections */}
   <section class="section">
     <div class="container">
       <div class="text-center mb-6 md:mb-14">
-        <h2>Collections</h2>
+        <h2>Shop By Collection</h2>
+        <p class="mt-2">Find the perfect plants for your space</p>
       </div>
       <CollectionsSlider client:load collections={collectionProducts} />
     </div>
   </section>
 
-  {/* Featured Products section */}
+  {/* Bestselling Plants */}
   <section>
     <div class="container">
       <div class="text-center mb-6 md:mb-14">
-        <h2 class="mb-2">Featured Products</h2>
-        <p class="md:h5">Explore Today's Featured Picks!</p>
+        <h2 class="mb-2">Bestselling Plants</h2>
+        <p class="md:h5">Customer favorites that thrive in any home</p>
       </div>
       <FeaturedProducts products={featuredProducts} />
     </div>
